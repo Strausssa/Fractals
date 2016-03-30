@@ -49,6 +49,6 @@ public class SierpinskiTriangle {
 	
 	public static void main(String[] args) { 
 		SierpinskiTriangle triangle = new SierpinskiTriangle();
-		triangle.draw(6);
+		triangle.draw(7); //n-1
 	}
 }
